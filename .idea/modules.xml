@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mteframeworklib.iml" filepath="$PROJECT_DIR$/.idea/mteframeworklib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mteframeworklib.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mteframeworklib.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mteframeworklib.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mteframeworklib.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mteframeworklib.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mteframeworklib.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/mteframeworklib.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/mteframeworklib.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mteframework/mteframeworklib.mteframework.iml" filepath="$PROJECT_DIR$/.idea/modules/mteframework/mteframeworklib.mteframework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mteframework/mteframeworklib.mteframework.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mteframework/mteframeworklib.mteframework.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mteframework/mteframeworklib.mteframework.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mteframework/mteframeworklib.mteframework.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mteframework/mteframeworklib.mteframework.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mteframework/mteframeworklib.mteframework.unitTest.iml" />
+    </modules>
+  </component>
+</project>
